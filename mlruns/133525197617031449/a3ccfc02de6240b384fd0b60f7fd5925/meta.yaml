@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/a3ccfc02de6240b384fd0b60f7fd5925/artifacts
+end_time: 1681694340760
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: active
+run_id: a3ccfc02de6240b384fd0b60f7fd5925
+run_name: SVM - Linear Kernel
+run_uuid: a3ccfc02de6240b384fd0b60f7fd5925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694339320
+status: 3
+tags: []
+user_id: lucas

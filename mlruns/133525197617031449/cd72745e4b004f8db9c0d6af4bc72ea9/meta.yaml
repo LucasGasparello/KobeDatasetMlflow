@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/cd72745e4b004f8db9c0d6af4bc72ea9/artifacts
+end_time: 1681694332963
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: active
+run_id: cd72745e4b004f8db9c0d6af4bc72ea9
+run_name: Random Forest Classifier
+run_uuid: cd72745e4b004f8db9c0d6af4bc72ea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694331496
+status: 3
+tags: []
+user_id: lucas

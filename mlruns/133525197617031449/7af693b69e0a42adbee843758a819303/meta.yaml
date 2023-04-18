@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/7af693b69e0a42adbee843758a819303/artifacts
+end_time: 1681694339227
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: active
+run_id: 7af693b69e0a42adbee843758a819303
+run_name: Dummy Classifier
+run_uuid: 7af693b69e0a42adbee843758a819303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694337756
+status: 3
+tags: []
+user_id: lucas

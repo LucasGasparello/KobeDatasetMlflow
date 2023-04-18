@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/d4776bb367ce4bce888d188b4c13c48c/artifacts
+end_time: 1681694528745
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: active
+run_id: d4776bb367ce4bce888d188b4c13c48c
+run_name: Treinamento
+run_uuid: d4776bb367ce4bce888d188b4c13c48c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694524527
+status: 3
+tags: []
+user_id: lucas

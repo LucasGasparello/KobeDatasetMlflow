@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/d67a7d86c0dc4984862a46a92e623d04/artifacts
+deleted_time: 1681696735693
+end_time: 1681694533314
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: deleted
+run_id: d67a7d86c0dc4984862a46a92e623d04
+run_name: delightful-roo-908
+run_uuid: d67a7d86c0dc4984862a46a92e623d04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694533258
+status: 3
+tags: []
+user_id: lucas

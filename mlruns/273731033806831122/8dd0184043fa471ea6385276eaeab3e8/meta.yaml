@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/273731033806831122/8dd0184043fa471ea6385276eaeab3e8/artifacts
+end_time: 1681694173475
+entry_point_name: ''
+experiment_id: '273731033806831122'
+lifecycle_stage: active
+run_id: 8dd0184043fa471ea6385276eaeab3e8
+run_name: PreparacaoDados
+run_uuid: 8dd0184043fa471ea6385276eaeab3e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694173422
+status: 3
+tags: []
+user_id: lucas

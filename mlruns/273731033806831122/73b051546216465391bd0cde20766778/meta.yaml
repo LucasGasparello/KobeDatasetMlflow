@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/273731033806831122/73b051546216465391bd0cde20766778/artifacts
+deleted_time: 1681694381805
+end_time: 1681694030103
+entry_point_name: ''
+experiment_id: '273731033806831122'
+lifecycle_stage: deleted
+run_id: 73b051546216465391bd0cde20766778
+run_name: __default__
+run_uuid: 73b051546216465391bd0cde20766778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694029876
+status: 4
+tags: []
+user_id: lucas

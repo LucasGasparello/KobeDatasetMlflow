@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/ff31f092824140279d2f7d2ffbb1cd0b/artifacts
+end_time: 1681694196677
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: active
+run_id: ff31f092824140279d2f7d2ffbb1cd0b
+run_name: Logistic Regression
+run_uuid: ff31f092824140279d2f7d2ffbb1cd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694195016
+status: 3
+tags: []
+user_id: lucas

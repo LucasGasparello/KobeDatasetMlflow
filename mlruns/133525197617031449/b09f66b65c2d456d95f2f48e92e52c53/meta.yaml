@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/b09f66b65c2d456d95f2f48e92e52c53/artifacts
+end_time: 1681694325354
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: active
+run_id: b09f66b65c2d456d95f2f48e92e52c53
+run_name: Ridge Classifier
+run_uuid: b09f66b65c2d456d95f2f48e92e52c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694323962
+status: 3
+tags: []
+user_id: lucas

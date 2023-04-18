@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/aaae97d28ac645c0a79474be080593bc/artifacts
+end_time: 1681694337665
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: active
+run_id: aaae97d28ac645c0a79474be080593bc
+run_name: Decision Tree Classifier
+run_uuid: aaae97d28ac645c0a79474be080593bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694336224
+status: 3
+tags: []
+user_id: lucas

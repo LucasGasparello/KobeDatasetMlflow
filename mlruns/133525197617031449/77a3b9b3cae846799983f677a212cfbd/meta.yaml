@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/77a3b9b3cae846799983f677a212cfbd/artifacts
+end_time: 1681694334512
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: active
+run_id: 77a3b9b3cae846799983f677a212cfbd
+run_name: Extra Trees Classifier
+run_uuid: 77a3b9b3cae846799983f677a212cfbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694333056
+status: 3
+tags: []
+user_id: lucas

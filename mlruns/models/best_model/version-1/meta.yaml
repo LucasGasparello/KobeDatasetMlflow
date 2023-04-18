@@ -1,0 +1,12 @@
+creation_timestamp: 1681694625117
+current_stage: None
+description: ''
+last_updated_timestamp: 1681694625117
+name: best_model
+run_id: d4776bb367ce4bce888d188b4c13c48c
+run_link: ''
+source: file:///D:/Documents/kobedataset/mlruns/133525197617031449/d4776bb367ce4bce888d188b4c13c48c/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

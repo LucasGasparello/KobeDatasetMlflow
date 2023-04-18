@@ -1,0 +1,28 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+kobe_data:
+    type: pandas.CSVDataSet
+    filepath: data/kobe_dataset.csv
+
+
+data_filtered:
+  type: pandas.ParquetDataSet
+  filepath: Data/operalization/base_train.parquet
+
+data_train:
+  type: pandas.ParquetDataSet
+  filepath: Data/processed/data_filtered.parquet
+
+data_test:
+  type: pandas.ParquetDataSet
+  filepath: Data/operalization/base_test.parquet
+
+model:
+  type: kedro_mlflow.io.artifacts.MlflowArtifactDataSet
+  data_set:
+    type: kedro_mlflow.io.models.MlflowModelSaverDataSet
+    filepath: Data/operalization/model
+    flavor: mlflow.sklearn
+

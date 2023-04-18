@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/133525197617031449/4b6a543530574d85b1936fce85c87d87/artifacts
+end_time: 1681694326827
+entry_point_name: ''
+experiment_id: '133525197617031449'
+lifecycle_stage: active
+run_id: 4b6a543530574d85b1936fce85c87d87
+run_name: Naive Bayes
+run_uuid: 4b6a543530574d85b1936fce85c87d87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694325445
+status: 3
+tags: []
+user_id: lucas

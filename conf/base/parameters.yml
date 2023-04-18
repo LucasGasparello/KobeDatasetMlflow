@@ -1,0 +1,4 @@
+
+# Train-Test split
+test_size: 0.2
+test_split_random_state: 158

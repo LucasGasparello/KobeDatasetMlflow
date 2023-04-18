@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Documents/kobedataset/mlruns/273731033806831122/2aea24a3d0b243ffa4666946cd22dcdc/artifacts
+deleted_time: 1681696723756
+end_time: 1681694697246
+entry_point_name: ''
+experiment_id: '273731033806831122'
+lifecycle_stage: deleted
+run_id: 2aea24a3d0b243ffa4666946cd22dcdc
+run_name: Modelo por API
+run_uuid: 2aea24a3d0b243ffa4666946cd22dcdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681694697190
+status: 3
+tags: []
+user_id: lucas
